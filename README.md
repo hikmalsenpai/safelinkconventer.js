@@ -1,0 +1,2 @@
+# safelinkconventer.js
+safelink convert
